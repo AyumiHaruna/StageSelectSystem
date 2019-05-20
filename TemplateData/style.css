@@ -16,15 +16,3 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
-
-
-.infoSquare{
-  border: solid 1px #000;
-  width: 10%;
-  height: 100vh;
-  padding: 5vw 2vw;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  font-size: 1em;
-}
